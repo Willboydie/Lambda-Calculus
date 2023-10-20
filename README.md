@@ -24,13 +24,18 @@ We generate all distinct SKI functions of size less than n (in our case n=9, the
 
 ## Files
 
-'λ_Calculus Project.pdf' :- The final project report.
+#### 'λ_Calculus Project.pdf'
+The final project report.
 
-'Integers.ipynb' :- Building the booleans and integers in lambda calculus in Python. The majority is not originally my work.
+#### 'Integers.ipynb'
+Building the booleans and integers in lambda calculus in Python. The majority is not originally my work.
 
-'SK-calculus.ipynb' :- Functional combinatorics and SKI Calculus. Two original methods for finding all function compositions of size <n; the creation of SKIsimplify, our physical SKI reducer; input testing the generated function bank for boolean and integer functions in SKI form.
+#### 'SK-calculus.ipynb'
+Functional combinatorics and SKI Calculus. Two original methods for finding all function compositions of size <n; the creation of SKIsimplify, our physical SKI reducer; input testing the generated function bank for boolean and integer functions in SKI form.
 
-'Dyck Paths.ipynb' :- Code which generates all the Dyck paths of length N and translates them into their corresponding functional compostion. The bijection between Dyck Paths and function compositions is explained in section 4.2.3.
+#### 'Dyck Paths.ipynb'
+Code which generates all the Dyck paths of length N and translates them into their corresponding functional compostion. The bijection between Dyck Paths and function compositions is explained in section 4.2.3.
 
-'Input testing.ipynb' :- Input testing proved useful at the very final stages of the work in 'SK-calculus.ipynb'. This file is just a bit of fun: a toy version of the strategy employed to find our SKI integers and booleans.
+#### 'Input testing.ipynb'
+Input testing proved useful at the very final stages of the work in 'SK-calculus.ipynb'. This file is just a bit of fun: a toy version of the strategy employed to find our SKI integers and booleans.
 
